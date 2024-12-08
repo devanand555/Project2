@@ -1,0 +1,7 @@
+{
+  "name": "Laptop",
+  "description": "High-performance laptop for gaming",
+  "price": 1200,
+  "category": "Electronics",
+  "stock": 10
+}
